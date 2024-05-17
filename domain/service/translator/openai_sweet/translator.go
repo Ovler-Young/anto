@@ -11,7 +11,7 @@ import (
 	"sync"
 )
 
-const apiTranslate = "https://api.sweetyun.com/v1/chat/completions"
+const apiTranslate = "https://ai.180811.xyz/v1/chat/completions"
 
 var (
 	apiSingleton  *Translator
